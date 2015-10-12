@@ -901,6 +901,9 @@ table.stock .actions {
         margin-bottom: 15px;
         margin-top: 20px;
     }
+    .blog-img {
+        margin: 10px 10px 10px 0px !important;
+}
     .flow {
         flex-direction : column;
         -webkit-flex-direction: column;
